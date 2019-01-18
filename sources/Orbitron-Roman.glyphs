@@ -1,14 +1,13 @@
 {
-.appVersion = "1200";
+.appVersion = "1192";
 DisplayStrings = (
-<<<<<<< HEAD
+"<<<<<<< HEAD",
 "Í",
 "Ô",
 "ê",
 "/scaron",
 "Ú",
-"/Ydieresis"
-=======
+"/Ydieresis",
 "÷",
 $,
 "é",
@@ -16,8 +15,8 @@ $,
 "ö",
 "/v.sc",
 "/v.sc",
-"/w.sc"
->>>>>>> parent of 644c963... Fixing GF regression issues
+"/w.sc",
+">>>>>>> parent of 644c963... Fixing GF regression issues"
 );
 classes = (
 {
@@ -209,7 +208,7 @@ GSCornerRadius = 15;
 verticalStems = (
 82
 );
-weightValue = 400;
+weightValue = 81;
 widthValue = 5;
 xHeight = 580;
 },
@@ -263,7 +262,7 @@ GSCornerRadius = 32;
 verticalStems = (
 156
 );
-weightValue = 900;
+weightValue = 155;
 widthValue = 5;
 xHeight = 580;
 }
@@ -22732,7 +22731,7 @@ n
 );
 }
 );
-interpolationWeight = 400;
+interpolationWeight = 81;
 instanceInterpolations = {
 "17A5F7C0-AED1-4270-89BA-BFDC1003B8A5" = 1;
 };
@@ -22754,10 +22753,10 @@ n
 );
 }
 );
-interpolationWeight = 500;
+interpolationWeight = 108;
 instanceInterpolations = {
-"17A5F7C0-AED1-4270-89BA-BFDC1003B8A5" = 0.8;
-"D465923C-ABAE-4975-85A4-08C1BC9DA335" = 0.2;
+"17A5F7C0-AED1-4270-89BA-BFDC1003B8A5" = 0.63514;
+"D465923C-ABAE-4975-85A4-08C1BC9DA335" = 0.36486;
 };
 name = Medium;
 weightClass = Medium;
@@ -22778,10 +22777,10 @@ n
 );
 }
 );
-interpolationWeight = 700;
+interpolationWeight = 132;
 instanceInterpolations = {
-"17A5F7C0-AED1-4270-89BA-BFDC1003B8A5" = 0.4;
-"D465923C-ABAE-4975-85A4-08C1BC9DA335" = 0.6;
+"17A5F7C0-AED1-4270-89BA-BFDC1003B8A5" = 0.31081;
+"D465923C-ABAE-4975-85A4-08C1BC9DA335" = 0.68919;
 };
 isBold = 1;
 name = Bold;
@@ -22803,7 +22802,7 @@ n
 );
 }
 );
-interpolationWeight = 900;
+interpolationWeight = 155;
 instanceInterpolations = {
 "D465923C-ABAE-4975-85A4-08C1BC9DA335" = 1;
 };
